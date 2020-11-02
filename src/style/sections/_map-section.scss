@@ -1,0 +1,9 @@
+.map-section{
+  // background-color: #fff;  
+}
+.map-section-container{
+  padding: 40px $pad-x 40px;
+  @include breakpoint(xl){
+    padding: 40px $pad-x-xl 40px;
+  }
+}

@@ -1,0 +1,44 @@
+// .custom-file-input:lang(en) ~ .custom-file-label::after {
+//   content: "Upload";
+// }
+// .custom-file{
+//   @include outline(0);
+//   &:hover, &:active, &:focus, &:active:hover{
+// 		@include outline(0);		
+// 		box-shadow: none;
+// 	}
+// }
+// .custom-file-input{
+//   @include outline(0);
+//   &:hover, &:active, &:focus, &:active:hover{
+// 		@include outline(0);		
+// 		box-shadow: none;
+// 	}
+// }
+
+// .custom-file-label {  
+//   height: $input-height;  
+//   line-height: 1.46;
+//   color: #2F5275;  
+//   border: 1px solid #EBF0F7;
+//   border-radius: 5px;
+//   margin-bottom: 0;
+//   display: inline-flex;
+//   align-items: center;
+// }
+// .custom-file-label::after {  
+//   height: $input-height;
+//   display: inline-flex;
+//   align-items: center;
+//   justify-content: center;
+//   font-family: $secondary-font-family;  
+//   font-weight: 400;
+//   font-size: 13px;
+//   line-height: 1.46;
+//   color: #2F5275;
+//   content: "Upload";
+//   background-color: #EAECEF;
+//   border-radius: 0 5px 5px 0;
+// }
+
+// 
